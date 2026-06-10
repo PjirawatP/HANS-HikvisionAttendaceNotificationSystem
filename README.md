@@ -1,5 +1,4 @@
-# Hikvision Event Listener + Telegram Notify
-
+# HANS-HikvisionAttendaceNotificationSystem
 โปรเจกต์นี้ใช้สำหรับรับ **Event การสแกนใบหน้า จาก Hikvision Face Recognition** จากนั้นจะ **ผูก Event + รูปภาพ** และส่งแจ้งเตือนไปยัง **Telegram Bot**
 
 ---
